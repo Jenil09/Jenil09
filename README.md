@@ -58,12 +58,16 @@ uptime:      99.9% (the 0.1% is coffee)
 ### `~/stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jenil09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Jenil09&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jenil09&theme=tokyo-night&hide_border=true&area=true" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jenil09&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
